@@ -28,7 +28,7 @@
     background-color: #00a295;
     font-size: 30px;
     padding: 10px 20px;
-    color: white;
+    color: aliceblue;
     min-width: 100%;
     border-radius: 5px;
     cursor: pointer;
@@ -60,10 +60,10 @@ body {
 }
 
 /* Score-based coloring */
-.element.score-1 { background-color: #ff6b6b !important; } /* Red */
-.element.score-2 { background-color: #ffd166 !important; } /* Yellow */
-.element.score-3 { background-color: #06d6a0 !important; } /* Green */
-.element.no-score { background-color: #ffd166 !important; }
+.element.radioactif-1 { background-color: #ff6b6b !important; } /* Red */
+.element.radioactif-2 { background-color: #ffd166 !important; } /* Yellow */
+.element.radioactif-3 { background-color: #06d6a0 !important; } /* Green */
+.element.no-radioactif { background-color: white !important; }
 
 /* Ensure text remains visible on colored backgrounds */
 .element {

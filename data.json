@@ -2,7 +2,6 @@
     "H": {
         "symbol": "H",
         "Atomic Number": 1,
-        "score": 1,
         "polluant_utilisation": 0,
         "polluant_extraction": 0,
         "radioactif": 0,
@@ -15,7 +14,6 @@
     "He": {
         "symbol": "He",
         "Atomic Number": 2,
-        "score": 1,
         "polluant_utilisation": 0,
         "polluant_extraction": 0,
         "radioactif": 0,

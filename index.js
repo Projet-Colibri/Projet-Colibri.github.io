@@ -29,14 +29,14 @@ function colorElementsByScore(elementsData) {
         const elementData = elementsData[symbol];
         
         // Remove any existing color classes
-        element.classList.remove('score-1', 'score-2', 'score-3', 'no-score');
+        element.classList.remove('radioactif-1', 'radioactif-2', 'radioactif-3', 'no-radioactif');
         
         if (elementData && elementData.score) {
             // Add dynamic color class based on score
-            element.classList.add(`score-${elementData.score}`);
+            element.classList.add(`radioactif-${elementData.radioactif}`);
         } else {
             // Add class for elements with no score
-            element.classList.add('no-score');
+            element.classList.add('no-radioactif');
         }
     });
 }
