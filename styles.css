@@ -1,0 +1,105 @@
+#element-info {
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-height: 80%;
+    overflow-y: auto;
+    width: 90%;
+    max-width: 500px;
+}
+
+#element-symbol {
+    text-align: center;
+    font-size: 40px;
+}
+
+#element-properties {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+#element-info button {
+    text-align: center;
+    background-color: blueviolet;
+    font-size: 30px;
+    padding: 10px 20px;
+    color: aliceblue;
+    min-width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.hidden {
+    display: none;
+}
+
+/* For smaller screens */
+@media (max-width: 600px) {
+    #element-info {
+        width: 90%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+.element {
+    cursor: pointer;
+}
+
+body {
+  background-image: url('page-bg-pattern.gif'); /* Local file path */
+  background-repeat: repeat; /* Makes it tile */
+  background-attachment: fixed; /* Makes it stay in place while scrolling */
+  margin: 0; /* Removes default body margin */
+}
+
+/* Score-based coloring */
+.element.score-1 { background-color: #ff6b6b !important; } /* Red */
+.element.score-2 { background-color: #ffd166 !important; } /* Yellow */
+.element.score-3 { background-color: #06d6a0 !important; } /* Green */
+.element.no-score { background-color: #ffd166 !important; }
+
+/* Ensure text remains visible on colored backgrounds */
+.element {
+    color: black !important;
+    font-weight: bold;
+}
+
+
+/* my footer code */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #00a295;
+	opacity: 0.95;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.left, .center, .right {
+    flex: 1;
+    text-align: center;
+	font-size: 17px;
+}
+
+.left {
+    text-align: left;
+	margin-left: 5rem;
+}
+
+.right {
+    text-align: right;
+	margin-right: 5rem;
+}
+
