@@ -219,43 +219,43 @@
         "symbol": "K",
         "Atomic Number": 19,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 1,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 4,
+        "reserves": 1,
         "pollution_air_eau_sols": 0
     },
     "Ca": {
         "symbol": "Ca",
         "Atomic Number": 20,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 1,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 4,
+        "reserves": 1,
         "pollution_air_eau_sols": 0
     },
     "Sc": {
         "symbol": "Sc",
         "Atomic Number": 21,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 4,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 2,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Ti": {
         "symbol": "Ti",
         "Atomic Number": 22,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
@@ -267,24 +267,24 @@
         "symbol": "V",
         "Atomic Number": 23,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Cr": {
         "symbol": "Cr",
         "Atomic Number": 24,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "bioaccumulateur": 4,
+        "utilite": 3,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "Mn": {
