@@ -29,3 +29,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 });
+
+
+//a partir Rf dans data.json de la 0 donnees => mettre absence de donnees (pas de couleur)
