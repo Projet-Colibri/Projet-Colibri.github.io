@@ -65,3 +65,39 @@ function closeInfo() {
     const infoDiv = document.getElementById('element-info');
     infoDiv.classList.add('hidden');
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+  const cells      = document.querySelectorAll('.element[data-symbol]');
+  const selector   = document.getElementById('metric-select');
+  let   elementMap = {};
+
+  /* 1. Load JSON only once */
+  fetch('data.json')
+    .then(r => r.json())
+    .then(json => {
+      elementMap = json;
+      colourBy('radioactif');          // default view
+    });
+
+  /* 2. Change view when user picks another metric */
+  selector.addEventListener('change', e => colourBy(e.target.value));
+
+  /* ---------- helpers ---------- */
+  const ALL_CLASSES = ['score-0','score-1','score-2','score-3','score-4','no-data'];
+
+  function colourBy(metric) {
+    cells.forEach(td => {
+      td.classList.remove(...ALL_CLASSES);          // reset
+
+      const sym   = td.dataset.symbol;
+      const entry = elementMap[sym];
+
+      if (!entry || !(metric in entry) || entry[metric] === 0) {
+        td.classList.add('no-data');
+        return;
+      }
+      const score = Math.max(1, Math.min(4, entry[metric]));  // clamp 1-4
+      td.classList.add(`score-${score}`);
+    });
+  }
+});

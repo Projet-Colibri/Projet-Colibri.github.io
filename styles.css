@@ -103,3 +103,15 @@ body {
 	margin-right: 5rem;
 }
 
+
+/* colours for the 4 values */
+.element.score-1 { background:#06d6a0 !important; }  /* vert  */
+.element.score-2 { background:#c4e96b !important; }  /* vert-jaune */
+.element.score-3 { background:#ffd166 !important; }  /* orange */
+.element.score-4 { background:#ff6b6b !important; }  /* rouge  */
+.element.no-data  { background:#ffffff !important; }
+
+.element {          /* keep text readable */
+  color:#000 !important;
+  font-weight:bold;
+}

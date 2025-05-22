@@ -2,19 +2,19 @@
     "H": {
         "symbol": "H",
         "Atomic Number": 1,
-        "polluant_utilisation": 0,
-        "polluant_extraction": 0,
-        "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
-        "pollution_air_eau_sols": 0
+        
+        "polluant_extraction": 4,
+        "radioactif": 4,
+        "toxique": 4,
+        "bioaccumulateur": 4,
+        "utilite": 4,
+        "reserves": 4,
+        "pollution_air_eau_sols": 4
     },
     "He": {
         "symbol": "He",
         "Atomic Number": 2,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -26,7 +26,7 @@
     "Li": {
         "symbol": "Li",
         "Atomic Number": 3,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -38,7 +38,7 @@
     "Be": {
         "symbol": "Be",
         "Atomic Number": 4,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -50,7 +50,7 @@
     "B": {
         "symbol": "B",
         "Atomic Number": 5,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -62,7 +62,7 @@
     "C": {
         "symbol": "C",
         "Atomic Number": 6,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -74,7 +74,7 @@
     "N": {
         "symbol": "N",
         "Atomic Number": 7,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -86,7 +86,7 @@
     "O": {
         "symbol": "O",
         "Atomic Number": 8,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -98,7 +98,7 @@
     "F": {
         "symbol": "F",
         "Atomic Number": 9,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -110,7 +110,7 @@
     "Ne": {
         "symbol": "Ne",
         "Atomic Number": 10,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -122,7 +122,7 @@
     "Na": {
         "symbol": "Na",
         "Atomic Number": 11,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -134,7 +134,7 @@
     "Mg": {
         "symbol": "Mg",
         "Atomic Number": 12,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -146,7 +146,7 @@
     "Al": {
         "symbol": "Al",
         "Atomic Number": 13,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -158,7 +158,7 @@
     "Si": {
         "symbol": "Si",
         "Atomic Number": 14,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -170,7 +170,7 @@
     "P": {
         "symbol": "P",
         "Atomic Number": 15,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -182,7 +182,7 @@
     "S": {
         "symbol": "S",
         "Atomic Number": 16,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -194,7 +194,7 @@
     "Cl": {
         "symbol": "Cl",
         "Atomic Number": 17,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -206,7 +206,7 @@
     "Ar": {
         "symbol": "Ar",
         "Atomic Number": 18,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -218,7 +218,7 @@
     "K": {
         "symbol": "K",
         "Atomic Number": 19,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -230,7 +230,7 @@
     "Ca": {
         "symbol": "Ca",
         "Atomic Number": 20,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -242,7 +242,7 @@
     "Sc": {
         "symbol": "Sc",
         "Atomic Number": 21,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -254,7 +254,7 @@
     "Ti": {
         "symbol": "Ti",
         "Atomic Number": 22,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -266,7 +266,7 @@
     "V": {
         "symbol": "V",
         "Atomic Number": 23,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -278,7 +278,7 @@
     "Cr": {
         "symbol": "Cr",
         "Atomic Number": 24,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -290,7 +290,7 @@
     "Mn": {
         "symbol": "Mn",
         "Atomic Number": 25,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -302,7 +302,7 @@
     "Fe": {
         "symbol": "Fe",
         "Atomic Number": 26,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -314,7 +314,7 @@
     "Co": {
         "symbol": "Co",
         "Atomic Number": 27,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -326,7 +326,7 @@
     "Ni": {
         "symbol": "Ni",
         "Atomic Number": 28,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -338,7 +338,7 @@
     "Cu": {
         "symbol": "Cu",
         "Atomic Number": 29,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -350,7 +350,7 @@
     "Zn": {
         "symbol": "Zn",
         "Atomic Number": 30,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -362,7 +362,7 @@
     "Ga": {
         "symbol": "Ga",
         "Atomic Number": 31,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -374,7 +374,7 @@
     "Ge": {
         "symbol": "Ge",
         "Atomic Number": 32,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -386,7 +386,7 @@
     "As": {
         "symbol": "As",
         "Atomic Number": 33,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -398,7 +398,7 @@
     "Se": {
         "symbol": "Se",
         "Atomic Number": 34,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -410,7 +410,7 @@
     "Br": {
         "symbol": "Br",
         "Atomic Number": 35,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -422,7 +422,7 @@
     "Kr": {
         "symbol": "Kr",
         "Atomic Number": 36,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -434,7 +434,7 @@
     "Rb": {
         "symbol": "Rb",
         "Atomic Number": 37,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -446,7 +446,7 @@
     "Sr": {
         "symbol": "Sr",
         "Atomic Number": 38,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -458,7 +458,7 @@
     "Y": {
         "symbol": "Y",
         "Atomic Number": 39,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -470,7 +470,7 @@
     "Zr": {
         "symbol": "Zr",
         "Atomic Number": 40,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -482,7 +482,7 @@
     "Nb": {
         "symbol": "Nb",
         "Atomic Number": 41,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -494,7 +494,7 @@
     "Mo": {
         "symbol": "Mo",
         "Atomic Number": 42,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -506,7 +506,7 @@
     "Tc": {
         "symbol": "Tc",
         "Atomic Number": 43,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -518,7 +518,7 @@
     "Ru": {
         "symbol": "Ru",
         "Atomic Number": 44,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -530,7 +530,7 @@
     "Rh": {
         "symbol": "Rh",
         "Atomic Number": 45,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -542,7 +542,7 @@
     "Pd": {
         "symbol": "Pd",
         "Atomic Number": 46,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -554,7 +554,7 @@
     "Ag": {
         "symbol": "Ag",
         "Atomic Number": 47,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -566,7 +566,7 @@
     "Cd": {
         "symbol": "Cd",
         "Atomic Number": 48,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -578,7 +578,7 @@
     "In": {
         "symbol": "In",
         "Atomic Number": 49,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -590,7 +590,7 @@
     "Sn": {
         "symbol": "Sn",
         "Atomic Number": 50,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -602,7 +602,7 @@
     "Sb": {
         "symbol": "Sb",
         "Atomic Number": 51,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -614,7 +614,7 @@
     "Te": {
         "symbol": "Te",
         "Atomic Number": 52,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -626,7 +626,7 @@
     "I": {
         "symbol": "I",
         "Atomic Number": 53,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -638,7 +638,7 @@
     "Xe": {
         "symbol": "Xe",
         "Atomic Number": 54,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -650,7 +650,7 @@
     "Cs": {
         "symbol": "Cs",
         "Atomic Number": 55,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -662,7 +662,7 @@
     "Ba": {
         "symbol": "Ba",
         "Atomic Number": 56,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -674,7 +674,7 @@
     "La": {
         "symbol": "La",
         "Atomic Number": 57,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -686,7 +686,7 @@
     "Ce": {
         "symbol": "Ce",
         "Atomic Number": 58,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -698,7 +698,7 @@
     "Pr": {
         "symbol": "Pr",
         "Atomic Number": 59,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -710,7 +710,7 @@
     "Nd": {
         "symbol": "Nd",
         "Atomic Number": 60,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -722,7 +722,7 @@
     "Pm": {
         "symbol": "Pm",
         "Atomic Number": 61,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -734,7 +734,7 @@
     "Sm": {
         "symbol": "Sm",
         "Atomic Number": 62,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -746,7 +746,7 @@
     "Eu": {
         "symbol": "Eu",
         "Atomic Number": 63,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -758,7 +758,7 @@
     "Gd": {
         "symbol": "Gd",
         "Atomic Number": 64,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -770,7 +770,7 @@
     "Tb": {
         "symbol": "Tb",
         "Atomic Number": 65,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -782,7 +782,7 @@
     "Dy": {
         "symbol": "Dy",
         "Atomic Number": 66,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -794,7 +794,7 @@
     "Ho": {
         "symbol": "Ho",
         "Atomic Number": 67,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -806,7 +806,7 @@
     "Er": {
         "symbol": "Er",
         "Atomic Number": 68,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -818,7 +818,7 @@
     "Tm": {
         "symbol": "Tm",
         "Atomic Number": 69,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -830,7 +830,7 @@
     "Yb": {
         "symbol": "Yb",
         "Atomic Number": 70,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -842,7 +842,7 @@
     "Lu": {
         "symbol": "Lu",
         "Atomic Number": 71,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -854,7 +854,7 @@
     "Hf": {
         "symbol": "Hf",
         "Atomic Number": 72,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -866,7 +866,7 @@
     "Ta": {
         "symbol": "Ta",
         "Atomic Number": 73,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -878,7 +878,7 @@
     "W": {
         "symbol": "W",
         "Atomic Number": 74,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -890,7 +890,7 @@
     "Re": {
         "symbol": "Re",
         "Atomic Number": 75,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -902,7 +902,7 @@
     "Os": {
         "symbol": "Os",
         "Atomic Number": 76,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -914,7 +914,7 @@
     "Ir": {
         "symbol": "Ir",
         "Atomic Number": 77,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -926,7 +926,7 @@
     "Pt": {
         "symbol": "Pt",
         "Atomic Number": 78,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -938,7 +938,7 @@
     "Au": {
         "symbol": "Au",
         "Atomic Number": 79,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -950,7 +950,7 @@
     "Hg": {
         "symbol": "Hg",
         "Atomic Number": 80,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -962,7 +962,7 @@
     "Tl": {
         "symbol": "Tl",
         "Atomic Number": 81,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -974,7 +974,7 @@
     "Pb": {
         "symbol": "Pb",
         "Atomic Number": 82,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -986,7 +986,7 @@
     "Bi": {
         "symbol": "Bi",
         "Atomic Number": 83,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -998,7 +998,7 @@
     "Po": {
         "symbol": "Po",
         "Atomic Number": 84,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1010,7 +1010,7 @@
     "At": {
         "symbol": "At",
         "Atomic Number": 85,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1022,7 +1022,7 @@
     "Rn": {
         "symbol": "Rn",
         "Atomic Number": 86,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1034,7 +1034,7 @@
     "Fr": {
         "symbol": "Fr",
         "Atomic Number": 87,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1046,7 +1046,7 @@
     "Ra": {
         "symbol": "Ra",
         "Atomic Number": 88,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1058,7 +1058,7 @@
     "Ac": {
         "symbol": "Ac",
         "Atomic Number": 89,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1070,7 +1070,7 @@
     "Th": {
         "symbol": "Th",
         "Atomic Number": 90,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1082,7 +1082,7 @@
     "Pa": {
         "symbol": "Pa",
         "Atomic Number": 91,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1094,7 +1094,7 @@
     "U": {
         "symbol": "U",
         "Atomic Number": 92,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1106,7 +1106,7 @@
     "Np": {
         "symbol": "Np",
         "Atomic Number": 93,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1118,7 +1118,7 @@
     "Pu": {
         "symbol": "Pu",
         "Atomic Number": 94,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1130,7 +1130,7 @@
     "Am": {
         "symbol": "Am",
         "Atomic Number": 95,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1142,7 +1142,7 @@
     "Cm": {
         "symbol": "Cm",
         "Atomic Number": 96,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1154,7 +1154,7 @@
     "Bk": {
         "symbol": "Bk",
         "Atomic Number": 97,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1166,7 +1166,7 @@
     "Cf": {
         "symbol": "Cf",
         "Atomic Number": 98,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1178,7 +1178,7 @@
     "Es": {
         "symbol": "Es",
         "Atomic Number": 99,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1190,7 +1190,7 @@
     "Fm": {
         "symbol": "Fm",
         "Atomic Number": 100,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1202,7 +1202,7 @@
     "Md": {
         "symbol": "Md",
         "Atomic Number": 101,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1214,7 +1214,7 @@
     "No": {
         "symbol": "No",
         "Atomic Number": 102,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1226,7 +1226,7 @@
     "Lr": {
         "symbol": "Lr",
         "Atomic Number": 103,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1238,7 +1238,7 @@
     "Rf": {
         "symbol": "Rf",
         "Atomic Number": 104,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1250,7 +1250,7 @@
     "Db": {
         "symbol": "Db",
         "Atomic Number": 105,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1262,7 +1262,7 @@
     "Sg": {
         "symbol": "Sg",
         "Atomic Number": 106,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1274,7 +1274,7 @@
     "Bh": {
         "symbol": "Bh",
         "Atomic Number": 107,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1286,7 +1286,7 @@
     "Hs": {
         "symbol": "Hs",
         "Atomic Number": 108,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1298,7 +1298,7 @@
     "Mt": {
         "symbol": "Mt",
         "Atomic Number": 109,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1310,7 +1310,7 @@
     "Ds": {
         "symbol": "Ds",
         "Atomic Number": 110,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1322,7 +1322,7 @@
     "Rg": {
         "symbol": "Rg",
         "Atomic Number": 111,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1334,7 +1334,7 @@
     "Cn": {
         "symbol": "Cn",
         "Atomic Number": 112,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1346,7 +1346,7 @@
     "Nh": {
         "symbol": "Nh",
         "Atomic Number": 113,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1358,7 +1358,7 @@
     "Fl": {
         "symbol": "Fl",
         "Atomic Number": 114,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1370,7 +1370,7 @@
     "Mc": {
         "symbol": "Mc",
         "Atomic Number": 115,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1382,7 +1382,7 @@
     "Lv": {
         "symbol": "Lv",
         "Atomic Number": 116,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1394,7 +1394,7 @@
     "Ts": {
         "symbol": "Ts",
         "Atomic Number": 117,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
@@ -1406,7 +1406,7 @@
     "Og": {
         "symbol": "Og",
         "Atomic Number": 118,
-        "polluant_utilisation": 0,
+        
         "polluant_extraction": 0,
         "radioactif": 0,
         "toxique": 0,
