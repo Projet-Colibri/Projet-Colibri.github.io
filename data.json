@@ -15,7 +15,7 @@
         "symbol": "He",
         "Atomic Number": 2,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 1,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
@@ -27,7 +27,7 @@
         "symbol": "Li",
         "Atomic Number": 3,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
