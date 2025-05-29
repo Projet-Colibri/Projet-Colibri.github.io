@@ -257,10 +257,10 @@
         
         "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 4,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "V": {
@@ -269,7 +269,7 @@
         
         "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
         "utilite": 0,
         "reserves": 3,
@@ -281,45 +281,45 @@
         
         "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 4,
         "utilite": 3,
         "reserves": 2,
-        "pollution_air_eau_sols": 0
+        "pollution_air_eau_sols": 4
     },
     "Mn": {
         "symbol": "Mn",
         "Atomic Number": 25,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "toxique": 2,
+        "bioaccumulateur": 3,
+        "utilite": 3,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "Fe": {
         "symbol": "Fe",
         "Atomic Number": 26,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 1,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "toxique": 1,
+        "bioaccumulateur": 3,
+        "utilite": 4,
+        "reserves": 1,
         "pollution_air_eau_sols": 0
     },
     "Co": {
         "symbol": "Co",
         "Atomic Number": 27,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 4,
         "bioaccumulateur": 0,
-        "utilite": 0,
+        "utilite": 3,
         "reserves": 0,
         "pollution_air_eau_sols": 0
     },
@@ -327,107 +327,107 @@
         "symbol": "Ni",
         "Atomic Number": 28,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
-        "pollution_air_eau_sols": 0
+        "toxique": 3,
+        "bioaccumulateur": 3,
+        "utilite": 3,
+        "reserves": 2,
+        "pollution_air_eau_sols": 4
     },
     "Cu": {
         "symbol": "Cu",
         "Atomic Number": 29,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
-        "pollution_air_eau_sols": 0
+        "toxique": 2,
+        "bioaccumulateur": 3,
+        "utilite": 4,
+        "reserves": 2,
+        "pollution_air_eau_sols": 4
     },
     "Zn": {
         "symbol": "Zn",
         "Atomic Number": 30,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
-        "pollution_air_eau_sols": 0
+        "toxique": 2,
+        "bioaccumulateur": 3,
+        "utilite": 4,
+        "reserves": 2,
+        "pollution_air_eau_sols": 4
     },
     "Ga": {
         "symbol": "Ga",
         "Atomic Number": 31,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 4,
         "pollution_air_eau_sols": 0
     },
     "Ge": {
         "symbol": "Ge",
         "Atomic Number": 32,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "As": {
         "symbol": "As",
         "Atomic Number": 33,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
-        "pollution_air_eau_sols": 0
+        "toxique": 4,
+        "bioaccumulateur": 4,
+        "utilite": 2,
+        "reserves": 3,
+        "pollution_air_eau_sols": 4
     },
     "Se": {
         "symbol": "Se",
         "Atomic Number": 34,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Br": {
         "symbol": "Br",
         "Atomic Number": 35,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 2,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "Kr": {
         "symbol": "Kr",
         "Atomic Number": 36,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
+        "utilite": 2,
         "reserves": 0,
         "pollution_air_eau_sols": 0
     },
@@ -435,72 +435,72 @@
         "symbol": "Rb",
         "Atomic Number": 37,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "Sr": {
         "symbol": "Sr",
         "Atomic Number": 38,
         
-        "polluant_extraction": 0,
-        "radioactif": 0,
+        "polluant_extraction": 2,
+        "radioactif": 4,
         "toxique": 0,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "Y": {
         "symbol": "Y",
         "Atomic Number": 39,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 4,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 2,
+        "reserves": 4,
         "pollution_air_eau_sols": 0
     },
     "Zr": {
         "symbol": "Zr",
         "Atomic Number": 40,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Nb": {
         "symbol": "Nb",
         "Atomic Number": 41,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Mo": {
         "symbol": "Mo",
         "Atomic Number": 42,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Tc": {
@@ -512,7 +512,7 @@
         "toxique": 0,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Ru": {
@@ -521,10 +521,10 @@
         
         "polluant_extraction": 0,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 4,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Rh": {
@@ -535,8 +535,8 @@
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Pd": {
@@ -545,10 +545,10 @@
         
         "polluant_extraction": 0,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Ag": {
@@ -557,33 +557,33 @@
         
         "polluant_extraction": 0,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Cd": {
         "symbol": "Cd",
         "Atomic Number": 48,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
-        "bioaccumulateur": 0,
-        "utilite": 0,
+        "toxique": 3,
+        "bioaccumulateur": 4,
+        "utilite": 2,
         "reserves": 0,
-        "pollution_air_eau_sols": 0
+        "pollution_air_eau_sols": 4
     },
     "In": {
         "symbol": "In",
         "Atomic Number": 49,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 3,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
+        "utilite": 3,
         "reserves": 0,
         "pollution_air_eau_sols": 0
     },
@@ -591,47 +591,47 @@
         "symbol": "Sn",
         "Atomic Number": 50,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Sb": {
         "symbol": "Sb",
         "Atomic Number": 51,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Te": {
         "symbol": "Te",
         "Atomic Number": 52,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 4,
         "pollution_air_eau_sols": 0
     },
     "I": {
         "symbol": "I",
         "Atomic Number": 53,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
+        "utilite": 2,
         "reserves": 0,
         "pollution_air_eau_sols": 0
     },
@@ -639,11 +639,11 @@
         "symbol": "Xe",
         "Atomic Number": 54,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 1,
         "bioaccumulateur": 0,
-        "utilite": 0,
+        "utilite": 2,
         "reserves": 0,
         "pollution_air_eau_sols": 0
     },
@@ -651,9 +651,9 @@
         "symbol": "Cs",
         "Atomic Number": 55,
         
-        "polluant_extraction": 0,
-        "radioactif": 0,
-        "toxique": 0,
+        "polluant_extraction": 3,
+        "radioactif": 4,
+        "toxique": 1,
         "bioaccumulateur": 0,
         "utilite": 0,
         "reserves": 0,
@@ -663,60 +663,60 @@
         "symbol": "Ba",
         "Atomic Number": 56,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 2,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 3,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 2,
+        "reserves": 2,
         "pollution_air_eau_sols": 0
     },
     "La": {
         "symbol": "La",
         "Atomic Number": 57,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 4,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 4,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Ce": {
         "symbol": "Ce",
         "Atomic Number": 58,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 3,
         "radioactif": 0,
-        "toxique": 0,
+        "toxique": 2,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Pr": {
         "symbol": "Pr",
         "Atomic Number": 59,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 3,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
         "utilite": 0,
-        "reserves": 0,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Nd": {
         "symbol": "Nd",
         "Atomic Number": 60,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 4,
         "radioactif": 0,
         "toxique": 0,
         "bioaccumulateur": 0,
-        "utilite": 0,
-        "reserves": 0,
+        "utilite": 3,
+        "reserves": 3,
         "pollution_air_eau_sols": 0
     },
     "Pm": {
@@ -1416,4 +1416,6 @@
         "pollution_air_eau_sols": 0
     }
 }
+
+
 
