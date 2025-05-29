@@ -96,3 +96,30 @@ body {
 
 /* colours for the 4 values */
 .element { color:#000; font-weight:bold; }
+
+/* legende */
+#severity-legend{
+  margin: 1.5rem auto;
+  text-align:center;
+  font-size:0.95rem;
+  font-family:inherit;
+}
+#severity-legend span{
+  margin:0 .7rem;
+  white-space:nowrap;
+}
+.legend-box{
+  display:inline-block;
+  width:1.25em;
+  height:1.25em;
+  margin-right:4px;
+  border:1px solid #555;
+  border-radius:3px;
+  vertical-align:middle;
+}
+
+/* use the same hues as the table (green → red) */
+.legend-1{ background:hsl(120,70%,60%); }  /* score-1  (Non)         */
+.legend-2{ background:hsl( 80,70%,60%); }  /* score-2  (Faible)      */
+.legend-3{ background:hsl( 40,70%,60%); }  /* score-3  (Modéré)      */
+.legend-4{ background:hsl(  0,70%,60%); }  /* score-4  (Hautement)   */
