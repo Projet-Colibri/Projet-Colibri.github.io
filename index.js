@@ -32,15 +32,3 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 
 //a partir Rf dans data.json de la 0 donnees => mettre absence de donnees (pas de couleur)
-
-@media screen and (orientation:landscape) {
-
-  #container {
-    -ms-transform: rotate(-90deg); /* IE 9 */
-    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
-    transform: rotate(-90deg);
-    width: /* screen width */ ;
-    height: /* screen height */ ;
-    overflow: scroll;
-  }
-}
