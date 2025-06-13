@@ -123,3 +123,17 @@ body {
 .legend-2{ background:hsl( 80,70%,60%); }  /* score-2  (Faible)      */
 .legend-3{ background:hsl( 40,70%,60%); }  /* score-3  (Modéré)      */
 .legend-4{ background:hsl(  0,70%,60%); }  /* score-4  (Hautement)   */
+
+
+/* lanscape mobile */
+@media screen and (orientation:landscape) {
+
+  #container {
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+    width: /* screen width */ ;
+    height: /* screen height */ ;
+    overflow: scroll;
+  }
+}
