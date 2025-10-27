@@ -27,13 +27,13 @@
         "symbol": "Li",
         "Atomic Number": 3,
         
-        "polluant_extraction": 0,
+        "polluant_extraction": 4,
         "radioactif": 0,
         "toxique": 1,
         "bioaccumulateur": 0,
         "utilite": 4,
         "reserves": 3,
-        "pollution_air_eau_sols": 0
+        "pollution_air_eau_sols": 3
     },
     "Be": {
         "symbol": "Be",
