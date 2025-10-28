@@ -402,10 +402,10 @@
         "polluant_extraction": 2,
         "radioactif": 0,
         "toxique": 2,
-        "bioaccumulateur": 0,
+        "bioaccumulateur": 1,
         "utilite": 3,
         "reserves": 3,
-        "pollution_air_eau_sols": 0
+        "pollution_air_eau_sols": 2
     },
     "Br": {
         "symbol": "Br",
